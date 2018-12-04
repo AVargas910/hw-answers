@@ -1,0 +1,16 @@
+.headings{
+  font-family: "Roboto";
+  font-size: 2em;
+  font-weight: bold;
+  color: indigo;
+}
+.smaller_text{
+  font-family: "Raleway";
+  font-size: 1em;
+  font-weight: 900;
+  color: "black";
+}
+.font_image{
+  height: 30em;
+  width: 50em;
+}
